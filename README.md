@@ -4,7 +4,7 @@
 
 Components:
 - Edit Texts
-- Mutliple Activities with Results
+- Multiple Activities with Results
 
 ### Video Walkthrough
 
